@@ -1,0 +1,37 @@
+# 代理补充列表
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,tidal
+
+# 域名完整匹配
+DOMAIN,dockerhub.azk8s.cn
+DOMAIN,hub-mirror.c.163.com
+DOMAIN,k8s.gcr.io
+DOMAIN,registry.hub.docker.com
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,bfdm.xyz
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerizer.com
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,hikarinoakari.com
+DOMAIN-SUFFIX,infini-cloud.net
+DOMAIN-SUFFIX,joox.com
+DOMAIN-SUFFIX,kkbox.com
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+DOMAIN-SUFFIX,mediafire.com
+DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,mora.jp
+DOMAIN-SUFFIX,ototoy.jp
+DOMAIN-SUFFIX,ouo.io
+DOMAIN-SUFFIX,rapidgator.net
+DOMAIN-SUFFIX,terabox.com
