@@ -59,7 +59,6 @@ DOMAIN,manifest.prod.boltdns.net
 DOMAIN,newdownload.eweiqi.com
 DOMAIN,pc.miguvideo.com
 DOMAIN,prod-ireland.arkoselabs.com
-DOMAIN,raw.githubusercontent.com
 DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN,share.dmhy.org
 DOMAIN,static.alimama.com
@@ -220,7 +219,6 @@ DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,gigacircle.com
 DOMAIN-SUFFIX,go.com
 DOMAIN-SUFFIX,go-disneyworldgo.com
-DOMAIN-SUFFIX,gpt.ge
 DOMAIN-SUFFIX,gtm.oasisfeng.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,happyon.jp
@@ -246,7 +244,6 @@ DOMAIN-SUFFIX,icevirtuallibrary.com
 DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,imf.org
 DOMAIN-SUFFIX,initiummall.com
-DOMAIN-SUFFIX,instanttelegram.com
 DOMAIN-SUFFIX,inter.iqiyi.com
 DOMAIN-SUFFIX,inter.ptqy.gitv.tv
 DOMAIN-SUFFIX,intl.iqiyi.com
