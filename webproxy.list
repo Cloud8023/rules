@@ -1,4 +1,4 @@
-# 代理补充列表
+naiyous.com# 代理补充列表
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,cloudflare
@@ -275,6 +275,7 @@ DOMAIN-SUFFIX,live.net
 DOMAIN-SUFFIX,livefilestore.com
 DOMAIN-SUFFIX,lnkd.in
 DOMAIN-SUFFIX,logmein.com
+DOMAIN-SUFFIX,m.irs01.com
 DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,mailchimp.com
 DOMAIN-SUFFIX,mailfence.com
@@ -299,6 +300,7 @@ DOMAIN-SUFFIX,myilibrary.com
 DOMAIN-SUFFIX,mytvsuper.com
 DOMAIN-SUFFIX,mzh.moegirl.org.cn
 DOMAIN-SUFFIX,naiquan03.com
+DOMAIN-SUFFIX,naiyous.com
 DOMAIN-SUFFIX,natgeomaps.com
 DOMAIN-SUFFIX,nationalgeographic.com
 DOMAIN-SUFFIX,nationalgeographicpartners.com
@@ -381,10 +383,12 @@ DOMAIN-SUFFIX,starwars.com
 DOMAIN-SUFFIX,starwarsgalacticstarcruiser.com
 DOMAIN-SUFFIX,starwarskids.com
 DOMAIN-SUFFIX,staticasiafox.akamaized.net
+DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steemitwallet.com
 DOMAIN-SUFFIX,storage.msn.com
 DOMAIN-SUFFIX,streamingdisney.net
 DOMAIN-SUFFIX,streetvoice.com
+DOMAIN-SUFFIX,sunluomeng.top
 DOMAIN-SUFFIX,supertop.co
 DOMAIN-SUFFIX,tandfonline.com
 DOMAIN-SUFFIX,target.com
@@ -404,6 +408,7 @@ DOMAIN-SUFFIX,uploader.jp
 DOMAIN-SUFFIX,uplynk.com
 DOMAIN-SUFFIX,urbanairship.com
 DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,v2rayssr.com
 DOMAIN-SUFFIX,videodelivery.net
 DOMAIN-SUFFIX,vk.com
 DOMAIN-SUFFIX,vsco.co

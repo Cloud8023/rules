@@ -2,6 +2,7 @@
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,steam
 DOMAIN-KEYWORD,tidal
 
 # 域名完整匹配
@@ -13,15 +14,19 @@ DOMAIN,registry.hub.docker.com
 # 域名后缀匹配
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,bfdm.xyz
+DOMAIN-SUFFIX,dockdoor.net
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerizer.com
 DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,emby.media
+DOMAIN-SUFFIX,emby.tv
 DOMAIN-SUFFIX,gcr.io
 DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,hikarinoakari.com
 DOMAIN-SUFFIX,infini-cloud.net
+DOMAIN-SUFFIX,jellyfin.org
 DOMAIN-SUFFIX,joox.com
 DOMAIN-SUFFIX,kkbox.com
 DOMAIN-SUFFIX,kkbox.com.tw
