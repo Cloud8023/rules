@@ -1220,3 +1220,6 @@ DOMAIN-SUFFIX,zonaq.pw
 DOMAIN-SUFFIX,zp.m-team.io
 DOMAIN-SUFFIX,zprk.io
 DOMAIN-SUFFIX,ztracker.cc
+
+# 本地IP匹配
+IP-CIDR,10.10.10.0/24
