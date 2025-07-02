@@ -1,4 +1,4 @@
-naiyous.com# 代理补充列表
+# 代理补充列表
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,cloudflare
@@ -398,7 +398,6 @@ DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,thestationbymaker.com
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,thisispolaris.com
-DOMAIN-SUFFIX,toptbdev.net
 DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,tvb.com
 DOMAIN-SUFFIX,twimg.co
