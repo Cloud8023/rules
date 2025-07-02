@@ -5,24 +5,13 @@ DOMAIN-KEYWORD,spotify
 DOMAIN-KEYWORD,steam
 DOMAIN-KEYWORD,tidal
 
-# 域名完整匹配
-DOMAIN,dockerhub.azk8s.cn
-DOMAIN,hub-mirror.c.163.com
-DOMAIN,k8s.gcr.io
-DOMAIN,registry.hub.docker.com
-
 # 域名后缀匹配
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,bfdm.xyz
 DOMAIN-SUFFIX,dockdoor.net
-DOMAIN-SUFFIX,docker.com
-DOMAIN-SUFFIX,docker.io
-DOMAIN-SUFFIX,dockerizer.com
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,emby.media
 DOMAIN-SUFFIX,emby.tv
-DOMAIN-SUFFIX,gcr.io
-DOMAIN-SUFFIX,ghcr.io
 DOMAIN-SUFFIX,gog.com
 DOMAIN-SUFFIX,hikarinoakari.com
 DOMAIN-SUFFIX,infini-cloud.net

@@ -1,0 +1,21 @@
+# 代理补充列表
+
+# 域名完整匹配
+DOMAIN,auth.docker.io
+DOMAIN,docker.cloudsmith.io
+DOMAIN,dockerhub.azk8s.cn
+DOMAIN,hub.docker.com
+DOMAIN,k8s.gcr.io
+DOMAIN,registry.hub.docker.com
+DOMAIN,registry.k8s.io
+DOMAIN,registry.docker.io
+DOMAIN,registry-1.docker.io
+
+# 域名后缀匹配
+DOMAIN-SUFFIX,docker.com
+DOMAIN-SUFFIX,docker.io
+DOMAIN-SUFFIX,dockerizer.com
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,ghcr.io
+DOMAIN-SUFFIX,nvcr.io
+DOMAIN-SUFFIX,quay.io
