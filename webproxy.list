@@ -1,11 +1,5 @@
 # 代理补充列表
 
-# 域名关键字匹配
-DOMAIN-KEYWORD,cloudflare
-DOMAIN-KEYWORD,slack
-DOMAIN-KEYWORD,themoviedb
-DOMAIN-KEYWORD,tmdb
-
 # 域名完整匹配
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,api.ipify.org
@@ -432,3 +426,9 @@ DOMAIN-SUFFIX,yahoo.com
 DOMAIN-SUFFIX,yandex.ru
 DOMAIN-SUFFIX,ycombinator.com
 DOMAIN-SUFFIX,yimg.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,slack
+DOMAIN-KEYWORD,themoviedb
+DOMAIN-KEYWORD,tmdb

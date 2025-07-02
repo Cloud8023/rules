@@ -1,10 +1,5 @@
 # 代理补充列表
 
-# 域名关键字匹配
-DOMAIN-KEYWORD,spotify
-DOMAIN-KEYWORD,steam
-DOMAIN-KEYWORD,tidal
-
 # 域名后缀匹配
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,bfdm.xyz
@@ -29,3 +24,8 @@ DOMAIN-SUFFIX,ototoy.jp
 DOMAIN-SUFFIX,ouo.io
 DOMAIN-SUFFIX,rapidgator.net
 DOMAIN-SUFFIX,terabox.com
+
+# 域名关键字匹配
+DOMAIN-KEYWORD,spotify
+DOMAIN-KEYWORD,steam
+DOMAIN-KEYWORD,tidal
