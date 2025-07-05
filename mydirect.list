@@ -195,6 +195,7 @@ DOMAIN,www.torrentsnipe.info
 DOMAIN,www.tsdm39.com
 DOMAIN,www.wareztorrent.com
 DOMAIN,www-cdn.icloud.com.akadns.net
+DOMAIN,zh.moegirl.org.cn
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,050521.xyz
@@ -1400,7 +1401,6 @@ DOMAIN-SUFFIX,z4a.net
 DOMAIN-SUFFIX,zamunda.games
 DOMAIN-SUFFIX,zappateers.com
 DOMAIN-SUFFIX,zelka.org
-DOMAIN-SUFFIX,zh.moegirl.org.cn
 DOMAIN-SUFFIX,zhangzishi.cc
 DOMAIN-SUFFIX,zhengjian.org
 DOMAIN-SUFFIX,zhihu.com
