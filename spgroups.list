@@ -1,5 +1,21 @@
 # 代理补充列表
 
+# 完整域名匹配
+DOMAIN,i60.tinypic.com
+
 # 域名后缀匹配
-DOMAIN-SUFFIX,toptbdev.net
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,azurefx.name
+DOMAIN-SUFFIX,bfdm.xyz
+DOMAIN-SUFFIX,dockdoor.net
+DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,fappaizuri.me
+DOMAIN-SUFFIX,hfyrw.com
+DOMAIN-SUFFIX,infini-cloud.net
+DOMAIN-SUFFIX,loli.net
+DOMAIN-SUFFIX,mediafire.com
+DOMAIN-SUFFIX,mega.io
+DOMAIN-SUFFIX,mega.nz
+DOMAIN-SUFFIX,terabox.com
+DOMAIN-SUFFIX,tinypic.com
+DOMAIN-SUFFIX,toptbdev.net
