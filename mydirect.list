@@ -1433,3 +1433,7 @@ DOMAIN-KEYWORD,torrent
 
 # 本地IP匹配
 IP-CIDR,10.10.10.0/24
+IP-CIDR,207.241.226.111/32,no-resolve
+IP-CIDR,207.241.231.226/32,no-resolve
+IP-CIDR,52.58.128.163/32,no-resolve
+IP-CIDR,89.110.76.229/32,no-resolve
