@@ -1,8 +1,6 @@
 # 代理补充列表
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,canxi.me
-DOMAIN-SUFFIX,bsxui.canxi.me
 DOMAIN-SUFFIX,emby.media
 DOMAIN-SUFFIX,emby.tv
 DOMAIN-SUFFIX,gog.com
@@ -14,10 +12,8 @@ DOMAIN-SUFFIX,kkbox.com.tw
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 DOMAIN-SUFFIX,mora.jp
-DOMAIN-SUFFIX,msxui.canxi.me
 DOMAIN-SUFFIX,ototoy.jp
 DOMAIN-SUFFIX,rapidgator.net
-DOMAIN-SUFFIX,sxui.canxi.me
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,spotify
