@@ -3,6 +3,8 @@
 # 域名完整匹配
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,api.ipify.org
+DOMAIN,api.themoviedb.org
+DOMAIN,api.tmdb.org
 DOMAIN,api.viu.now.com
 DOMAIN,app.bluestacks.cn
 DOMAIN,assets.hcaptcha.com
@@ -41,6 +43,7 @@ DOMAIN,frodo.douban.com
 DOMAIN,global.ssl.fastly.net
 DOMAIN,hcaptcha.com
 DOMAIN,hikdownload.ys7.com
+DOMAIN,image.tmdb.org
 DOMAIN,imgs.hcaptcha.com
 DOMAIN,intel-cache.m.iqiyi.com
 DOMAIN,intel-cache.video.iqiyi.com
@@ -57,6 +60,7 @@ DOMAIN,pc.miguvideo.com
 DOMAIN,prod-ireland.arkoselabs.com
 DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN,share.dmhy.org
+DOMAIN,static-mdb.v.geilijiasu.com
 DOMAIN,static.alimama.com
 DOMAIN,staticdelivery.nexusmods.com
 DOMAIN,staticstats.nexusmods.com
@@ -74,6 +78,7 @@ DOMAIN,videodelivery.net
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN,voidtools.com
 DOMAIN,www.nexusmods.com
+DOMAIN,www.themoviedb.org
 DOMAIN,www.v2ex.com
 DOMAIN,yt3.ggpht.com
 
@@ -435,5 +440,3 @@ DOMAIN-SUFFIX,yimg.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,slack
-DOMAIN-KEYWORD,themoviedb
-DOMAIN-KEYWORD,tmdb
