@@ -30,7 +30,6 @@ DOMAIN,d3c7rimkq79yfu.cloudfront.net
 DOMAIN,dfp6rglgjqszk.cloudfront.net
 DOMAIN,dl1.5kplayer.com
 DOMAIN,dmhy.anoneko.com
-DOMAIN,dmhy.org
 DOMAIN,download.2345.com
 DOMAIN,download.weituibao.com
 DOMAIN,ds-linear-abematv.akamaized.net
@@ -65,6 +64,7 @@ DOMAIN,static.alimama.com
 DOMAIN,staticdelivery.nexusmods.com
 DOMAIN,staticstats.nexusmods.com
 DOMAIN,tool.ouj.com
+DOMAIN,u2.dmhy.org
 DOMAIN,ud5.3lsoft.com
 DOMAIN,ud6.3lsoft.com
 DOMAIN,update.51nwt.com
@@ -177,6 +177,7 @@ DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,dilcdn.com
 DOMAIN-SUFFIX,discogs.com
 DOMAIN-SUFFIX,dmed.technology
+DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubleclick.net
