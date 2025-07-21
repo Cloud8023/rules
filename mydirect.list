@@ -183,9 +183,11 @@ DOMAIN,update6.dota2.wmsj.cn
 DOMAIN,upos-bstar1-mirrorakam.akamaized.net
 DOMAIN,upos-bstar-mirrorakam.akamaized.net
 DOMAIN,upos-hz-mirrorakam.akamaized.net
+DOMAIN,v16-tiktokcdn-com.akamaized.net
 DOMAIN,v74853.hosted-by-vdsina.com
 DOMAIN,wepzone.net
 DOMAIN,wnkbvx.lol
+DOMAIN,www.agedm.vip
 DOMAIN,www.all4nothin.net
 DOMAIN,www.genesis-sp.org
 DOMAIN,www.torrent.eu.org
@@ -253,11 +255,13 @@ DOMAIN-SUFFIX,acrossthetasman.com
 DOMAIN-SUFFIX,activemetering.com
 DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,adult-cinema-network.net
+DOMAIN-SUFFIX,agedm.vip
 DOMAIN-SUFFIX,agsvpt.com
 DOMAIN-SUFFIX,aidoru-online.me
 DOMAIN-SUFFIX,aitingcp.net
 DOMAIN-SUFFIX,aka.ms
 DOMAIN-SUFFIX,akadns.net
+DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,ali213.net
 DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,alipan.com
@@ -1064,6 +1068,8 @@ DOMAIN-SUFFIX,relay01.ptl.gs
 DOMAIN-SUFFIX,remastered-hd.org
 DOMAIN-SUFFIX,renminbao.com
 DOMAIN-SUFFIX,renovacionoffice.com
+DOMAIN-SUFFIX,rentry.la
+DOMAIN-SUFFIX,rentry.org
 DOMAIN-SUFFIX,resource.xidian.edu.cn
 DOMAIN-SUFFIX,retroflix.club
 DOMAIN-SUFFIX,revanime.net
