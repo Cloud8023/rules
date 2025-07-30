@@ -2,6 +2,8 @@
 
 # 域名完整匹配
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
+DOMAIN,android.clients.google.com
+DOMAIN,android.googleapis.com
 DOMAIN,api.ipify.org
 DOMAIN,api.themoviedb.org
 DOMAIN,api.tmdb.org
@@ -56,8 +58,10 @@ DOMAIN,manifest.prod.boltdns.net
 DOMAIN,mzh.moegirl.org.cn
 DOMAIN,newdownload.eweiqi.com
 DOMAIN,pc.miguvideo.com
+DOMAIN,play.googleapis.com
 DOMAIN,prod-ireland.arkoselabs.com
 DOMAIN,s3-ap-southeast-1.amazonaws.com
+DOMAIN,services.googleapis.cn
 DOMAIN,share.dmhy.org
 DOMAIN,static-mdb.v.geilijiasu.com
 DOMAIN,static.alimama.com
@@ -80,6 +84,7 @@ DOMAIN,voidtools.com
 DOMAIN,www.nexusmods.com
 DOMAIN,www.themoviedb.org
 DOMAIN,www.v2ex.com
+DOMAIN,xn--ngstr-lra8j.com
 DOMAIN,yt3.ggpht.com
 
 # 域名后缀匹配
