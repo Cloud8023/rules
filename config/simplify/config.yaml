@@ -50,10 +50,13 @@ tun:
   enable: true
   # system/gvisor/mixed
   stack: mixed
-  dns-hijack: ["any:53", "tcp://any:53", "udp://any:53"]
-  auto-route: true
-  auto-redirect: true
-  auto-detect-interface: true
+  dns-hijack: ["any:53", "tcp://any:53"]
+  #使用nikki，混入全部不修改的情况，开启接口指定为nikki
+  #使用仅内核自行修改下面三项为true
+  #device: nikki
+  auto-route: false
+  auto-redirect: false
+  auto-detect-interface: false
 
 # DNS模块
 dns:
@@ -62,26 +65,22 @@ dns:
   ipv6: false
   respect-rules: true
   enhanced-mode: fake-ip
-  fake-ip-range: 198.18.0.1/16
+  fake-ip-range: 28.0.0.1/8
   fake-ip-filter-mode: blacklist
   fake-ip-filter:
-    - +.lan
-    - +.local
-    - geosite:cn,geolocation-cn,onedrive,microsoft,apple,steam@cn,category-games@cn,private
-    - rule-set:private_domain,cn_domain
+    - "rule-set:private_domain,cn_domain"
     - "+.msftconnecttest.com"
     - "+.msftncsi.com"
     - "time.*.com"
+    - "+.market.xiaomi.com"
   default-nameserver:
     - 223.5.5.5
-    - 223.6.6.6
   proxy-server-nameserver:
     - https://223.5.5.5/dns-query
-    - https://223.6.6.6/dns-query
   # namesever尽量用运营商提供的DNS
   nameserver:
-    - https://223.5.5.5/dns-query
-    - https://223.6.6.6/dns-query
+    - 223.5.5.5
+    - 119.29.29.29
  
 # 出站策略
 # 注意锚点必须放在引用的上方，可以集中把锚点全部放yaml的顶部。
@@ -90,7 +89,6 @@ proxy-groups:
   - {name: 🚀 默认代理, type: select, proxies: [🇭🇰 香港节点, 🇸🇬 新加坡节点, 🇹🇼 台湾节点, 🇯🇵 日本节点, 🇺🇸 美国节点, 🇦🇸 亚洲节点, 🇪🇺 欧盟节点, 🇦🇲 美洲节点, 🇴🇲 大洋洲节点, 🔯 香港故转, 🔯 日本故转, ♻️ 香港自动, ♻️ 日本自动, ♻️ 美国自动, ♻️ 自动选择, 🗺️ 全部节点, ⚡ 绕过]}
   - {name: 🍎 Apple, type: select, proxies: [⚡ 绕过, 🚀 默认代理]}
   - {name: 🤖 ChatGPT, <<: *pr}
-  - {name: 🐳 Docker, <<: *pr}
   - {name: 👨🏿‍💻 GitHub, <<: *pr}
   - {name: 📹 YouTube, <<: *pr}
   - {name: 🍀 Google, <<: *pr}
@@ -118,7 +116,6 @@ rules:
   - RULE-SET,apple_domain,🍎 Apple
   - RULE-SET,proxylite,🚀 默认代理
   - RULE-SET,ai,🤖 ChatGPT
-  - RULE-SET,docker,🐳 Docker
   - RULE-SET,github_domain,👨🏿‍💻 GitHub
   - RULE-SET,youtube_domain,📹 YouTube
   - RULE-SET,google_domain,🍀 Google
@@ -132,6 +129,7 @@ rules:
   - RULE-SET,gfw_domain,🚀 默认代理
   - RULE-SET,geolocation-!cn,🚀 默认代理
   - RULE-SET,cn_domain,🎯 直连
+  - RULE-SET,apple_ip,直连,no-resolve
   - RULE-SET,google_ip,🍀 Google,no-resolve
   - RULE-SET,netflix_ip,🎥 NETFLIX,no-resolve
   - RULE-SET,telegram_ip,📲 Telegram,no-resolve
@@ -148,7 +146,6 @@ rule-providers:
   apple_domain: { <<: *domain, url: "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/apple-cn.mrs"}
   proxylite: { <<: *class, url: "https://gh-proxy.com/https://raw.githubusercontent.com/qichiyuhub/rule/refs/heads/main/proxy.list"}
   ai: {  <<: *domain, url: "https://gh-proxy.com/https://github.com/MetaCubeX/meta-rules-dat/raw/refs/heads/meta/geo/geosite/category-ai-!cn.mrs" }
-  docker: { <<: *class, url: "https://gh-proxy.com/https://raw.githubusercontent.com/Cloud8023/rules/refs/heads/main/docker.list"}
   github_domain: { <<: *domain, url: "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/github.mrs"}
   youtube_domain: { <<: *domain, url: "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/youtube.mrs"}
   google_domain: { <<: *domain, url: "https://gh-proxy.com/https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/google.mrs"}
