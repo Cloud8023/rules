@@ -87,6 +87,7 @@ DOMAIN,users.nexusmods.com
 DOMAIN,videodelivery.net
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN,voidtools.com
+DOMAIN,www.manhuabudangbbs.com
 DOMAIN,www.nexusmods.com
 DOMAIN,www.themoviedb.org
 DOMAIN,www.v2ex.com
@@ -254,7 +255,8 @@ DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogo.com
 DOMAIN-SUFFIX,hbogoasia.hk
 DOMAIN-SUFFIX,hcaptcha.com
-DOMAIN-SUFFIX,hdhive.online
+DOMAIN-SUFFIX,hdhive.com
+DOMAIN-SUFFIX,hdsay.net
 DOMAIN-SUFFIX,here.com
 DOMAIN-SUFFIX,heroku.com
 DOMAIN-SUFFIX,hfyrw.com
@@ -262,6 +264,7 @@ DOMAIN-SUFFIX,hhgshe.info
 DOMAIN-SUFFIX,hightail.com
 DOMAIN-SUFFIX,hikarinoakari.com
 DOMAIN-SUFFIX,hosting.co.uk
+DOMAIN-SUFFIX,huli100.com
 DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,hulustream.com
 DOMAIN-SUFFIX,hwcdn.net
@@ -316,6 +319,7 @@ DOMAIN-SUFFIX,m.irs01.com
 DOMAIN-SUFFIX,mail.ru
 DOMAIN-SUFFIX,mailchimp.com
 DOMAIN-SUFFIX,mailfence.com
+DOMAIN-SUFFIX,manhuabudangbbs.com
 DOMAIN-SUFFIX,manyvids.com
 DOMAIN-SUFFIX,marvel.com
 DOMAIN-SUFFIX,marvel10thanniversary.com
@@ -332,6 +336,7 @@ DOMAIN-SUFFIX,mega.io
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,mickey.tv
 DOMAIN-SUFFIX,mikanani.me
+DOMAIN-SUFFIX,minekuai.com
 DOMAIN-SUFFIX,monikadesign.uk
 DOMAIN-SUFFIX,mora.jp
 DOMAIN-SUFFIX,movie-pilot.org
