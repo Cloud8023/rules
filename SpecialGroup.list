@@ -2,8 +2,17 @@
 
 # 域名完整匹配
 DOMAIN,www.hifilib.com
+DOMAIN,www.tsdm39.com
+DOMAIN,img.ts-dm.net
+DOMAIN,img.tsdm39.com
+DOMAIN,img.mikudm.net
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,hifilib.com
+DOMAIN-SUFFIX,ts-dm.net
+DOMAIN-SUFFIX,tsdm39.com
+DOMAIN-SUFFIX,mikudm.net
 
 # 域名关键字匹配
+DOMAIN-KEYWORD,tsdm39
+DOMAIN-KEYWORD,ts-dm
