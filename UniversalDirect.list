@@ -14,6 +14,7 @@ DOMAIN,219-155-150-1.ksyungslb.com
 DOMAIN,222-188-6-1.ksyungslb.com
 DOMAIN,36-104-134-1.ksyungslb.com
 DOMAIN,36-25-252-1.ksyungslb.com
+DOMAIN,700sjro44343.vicp.fun
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
@@ -22,8 +23,10 @@ DOMAIN,bt.poletracker.org
 DOMAIN,bt.rer.lol
 DOMAIN,bt1.xxxxbt.cc
 DOMAIN,buny.uk
+DOMAIN,cdn.qiaoji8.com
 DOMAIN,cdn1-sea1.valve.net
 DOMAIN,cdn2-sea1.valve.net
+DOMAIN,chat.deepseek.com
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
 DOMAIN,download.jetbrains.com
@@ -35,15 +38,13 @@ DOMAIN,extracker.dahrkael.net
 DOMAIN,finbytes.org
 DOMAIN,highteahop.top
 DOMAIN,home.yxgz.club
-DOMAIN,img.mikudm.net
-DOMAIN,img.ts-dm.net
-DOMAIN,img.tsdm39.com
 DOMAIN,images2.imgbox.com
 DOMAIN,ip.bjango.com
 DOMAIN,ipv4.rer.lol
 DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
 DOMAIN,isk.richardsw.club
+DOMAIN,lzoq.serv00.net
 DOMAIN,martin-gebhardt.eu
 DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
@@ -65,6 +66,8 @@ DOMAIN,pan.quark.cn
 DOMAIN,pt.novahd.top
 DOMAIN,pt.xingyungept.org
 DOMAIN,public.tracker.vraphim.com
+DOMAIN,qixing.myhkw.com
+DOMAIN,raw.liucn.cc
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
 DOMAIN,retracker.spark-rostov.ru
@@ -219,6 +222,11 @@ DOMAIN,tracker-udp.gbitt.info
 DOMAIN,tracker-zhuqiy.dgj055.icu
 DOMAIN,ttk2.nbaonlineservice.com
 DOMAIN,tu.ts-dm.net
+DOMAIN,tv.999888123.xyz
+DOMAIN,tv.999888987.xyz
+DOMAIN,tv.laohu.cool
+DOMAIN,tv.xn--yhqu5zs87a.top
+DOMAIN,tvbox.xn--4kq62z5rby2qupq9ub.top
 DOMAIN,udp.tracker.projectk.org
 DOMAIN,update1.csgo.wmsj.cn
 DOMAIN,update1.dota2.wmsj.cn
@@ -240,15 +248,31 @@ DOMAIN,v16-tiktokcdn-com.akamaized.net
 DOMAIN,v74853.hosted-by-vdsina.com
 DOMAIN,wepzone.net
 DOMAIN,wnkbvx.lol
+DOMAIN,wogg.333232.xyz
 DOMAIN,www.agedm.io
 DOMAIN,www.all4nothin.net
 DOMAIN,www.genesis-sp.org
+DOMAIN,www.kimi.com
+DOMAIN,www.miqk.cc
+DOMAIN,www.nicept.net
+DOMAIN,www.okpt.net
+DOMAIN,www.ptlover.cc
+DOMAIN,www.ptzone.xyz
+DOMAIN,www.su7.run
 DOMAIN,www.torrent.eu.org
 DOMAIN,www.torrentsnipe.info
-DOMAIN,www.tsdm39.com
 DOMAIN,www.wareztorrent.com
+DOMAIN,www.wogg.one
+DOMAIN,www.xn--4kq62z5rby2qupq9ub.top
+DOMAIN,www.xn--sss604efuw.com
+DOMAIN,www.xn--v4q818bf34b.com
 DOMAIN,www.yhpp.cc
 DOMAIN,www-cdn.icloud.com.akadns.net
+DOMAIN,wyapi.toubiec.cn
+DOMAIN,xn--2qg-mf3g9f.v.nxog.top
+DOMAIN,xn--5mq.l5.ca
+DOMAIN,xn--94q.l5.ca
+DOMAIN,xn--ihqu10cn4c.xn--v4q818bf34b.com
 DOMAIN,zh.moegirl.org.cn
 
 # ÓòÃûºó×ºÆ¥Åä
@@ -256,12 +280,14 @@ DOMAIN-SUFFIX,050521.xyz
 DOMAIN-SUFFIX,0ff.cc
 DOMAIN-SUFFIX,123pan.com
 DOMAIN-SUFFIX,126.net
+DOMAIN-SUFFIX,135863.xyz
 DOMAIN-SUFFIX,163.com
 DOMAIN-SUFFIX,1ptba.com
 DOMAIN-SUFFIX,23ape.net
 DOMAIN-SUFFIX,2cycdx.com
 DOMAIN-SUFFIX,2xfree.org
 DOMAIN-SUFFIX,321flac.com
+DOMAIN-SUFFIX,333232.xyz
 DOMAIN-SUFFIX,343480.com
 DOMAIN-SUFFIX,3arbya.info
 DOMAIN-SUFFIX,3changtrai.com
@@ -269,6 +295,7 @@ DOMAIN-SUFFIX,3dmgame.com
 DOMAIN-SUFFIX,3dtorrents.org
 DOMAIN-SUFFIX,3wmg.com
 DOMAIN-SUFFIX,4k3dyptt.com
+DOMAIN-SUFFIX,4k4k.shop
 DOMAIN-SUFFIX,4sag.ru
 DOMAIN-SUFFIX,4thd.xyz
 DOMAIN-SUFFIX,51acg.buzz
@@ -284,6 +311,8 @@ DOMAIN-SUFFIX,6a6b.com
 DOMAIN-SUFFIX,71.am
 DOMAIN-SUFFIX,71.am.com
 DOMAIN-SUFFIX,95qda.k5deh.com
+DOMAIN-SUFFIX,999888123.xyz
+DOMAIN-SUFFIX,999888987.xyz
 DOMAIN-SUFFIX,9dmgamemod.com
 DOMAIN-SUFFIX,a4apt.com
 DOMAIN-SUFFIX,aadrm.com
@@ -310,6 +339,7 @@ DOMAIN-SUFFIX,adnxs.com
 DOMAIN-SUFFIX,adult-cinema-network.net
 DOMAIN-SUFFIX,agedm.io
 DOMAIN-SUFFIX,agsvpt.com
+DOMAIN-SUFFIX,ai-bot.cn
 DOMAIN-SUFFIX,aidoru-online.me
 DOMAIN-SUFFIX,aitingcp.net
 DOMAIN-SUFFIX,aka.ms
@@ -393,6 +423,7 @@ DOMAIN-SUFFIX,bibliotik.me
 DOMAIN-SUFFIX,bigbbs.eu
 DOMAIN-SUFFIX,bigfun.cn
 DOMAIN-SUFFIX,bigfunapp.cn
+DOMAIN-SUFFIX,bigjpg.com
 DOMAIN-SUFFIX,biho.xyz
 DOMAIN-SUFFIX,bili22.cn
 DOMAIN-SUFFIX,bili2233.cn
@@ -537,6 +568,7 @@ DOMAIN-SUFFIX,daydream.dmhy.best
 DOMAIN-SUFFIX,db.laomoe.com
 DOMAIN-SUFFIX,dedbit.com
 DOMAIN-SUFFIX,deepbassnine.com
+DOMAIN-SUFFIX,deepseek.com
 DOMAIN-SUFFIX,desitorrents.tv
 DOMAIN-SUFFIX,dgcol.com
 DOMAIN-SUFFIX,dhtclub.com
@@ -620,6 +652,7 @@ DOMAIN-SUFFIX,flac.life
 DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,flysheep.ysepan.com
 DOMAIN-SUFFIX,flysheep6.com
+DOMAIN-SUFFIX,fmys.top
 DOMAIN-SUFFIX,foro.unionfansub.com
 DOMAIN-SUFFIX,foxacg.com
 DOMAIN-SUFFIX,freehardmusic.com
@@ -796,6 +829,7 @@ DOMAIN-SUFFIX,karagarga.in
 DOMAIN-SUFFIX,kdocs.cn
 DOMAIN-SUFFIX,keepfrds.com
 DOMAIN-SUFFIX,kelu.one
+DOMAIN-SUFFIX,kimi.com
 DOMAIN-SUFFIX,kimi.moonshot.cn
 DOMAIN-SUFFIX,kimoji.club
 DOMAIN-SUFFIX,kinozal.tv
@@ -807,6 +841,7 @@ DOMAIN-SUFFIX,kuafuzys.com
 DOMAIN-SUFFIX,kufei.org
 DOMAIN-SUFFIX,kufirc.com
 DOMAIN-SUFFIX,kuyunbo.club
+DOMAIN-SUFFIX,l5.ca
 DOMAIN-SUFFIX,lagranepoca.com
 DOMAIN-SUFFIX,laidbackmanor.xyz
 DOMAIN-SUFFIX,landof.tv
@@ -829,6 +864,7 @@ DOMAIN-SUFFIX,lanzouv.com
 DOMAIN-SUFFIX,lanzouw.com
 DOMAIN-SUFFIX,lanzoux.com
 DOMAIN-SUFFIX,lanzouy.com
+DOMAIN-SUFFIX,laohu.cool
 DOMAIN-SUFFIX,laoshaoyou.com
 DOMAIN-SUFFIX,lastfiles.ro
 DOMAIN-SUFFIX,last-torrents.org
@@ -894,10 +930,10 @@ DOMAIN-SUFFIX,microsoft-tst.com
 DOMAIN-SUFFIX,midiclouds.com
 DOMAIN-SUFFIX,mihomoparty.bid
 DOMAIN-SUFFIX,miji8.com
-DOMAIN-SUFFIX,mikudm.net
 DOMAIN-SUFFIX,militaryzone.info
 DOMAIN-SUFFIX,milkie.cc
 DOMAIN-SUFFIX,minghui.org
+DOMAIN-SUFFIX,miqk.cc
 DOMAIN-SUFFIX,mma-torrents.com
 DOMAIN-SUFFIX,mma-tracker.net
 DOMAIN-SUFFIX,mnvv2.info
@@ -977,6 +1013,7 @@ DOMAIN-SUFFIX,ntdtv.com
 DOMAIN-SUFFIX,ntelogo.org
 DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,nwsuaf6.edu.cn
+DOMAIN-SUFFIX,nxog.top
 DOMAIN-SUFFIX,o365weve.com
 DOMAIN-SUFFIX,oaspapps.com
 DOMAIN-SUFFIX,office.com
@@ -988,6 +1025,7 @@ DOMAIN-SUFFIX,officeppe.net
 DOMAIN-SUFFIX,ogate.org
 DOMAIN-SUFFIX,ohmenarikgi.la
 DOMAIN-SUFFIX,okfun.org
+DOMAIN-SUFFIX,okmiku.com
 DOMAIN-SUFFIX,okpt.net
 DOMAIN-SUFFIX,oldmantvg.net
 DOMAIN-SUFFIX,oldtoons.world
@@ -1103,6 +1141,7 @@ DOMAIN-SUFFIX,puntotorrent.com
 DOMAIN-SUFFIX,pussytorrents.org
 DOMAIN-SUFFIX,pwtorrents.net
 DOMAIN-SUFFIX,qhstudio.fun
+DOMAIN-SUFFIX,qiaoji8.com
 DOMAIN-SUFFIX,qingwa.pro
 DOMAIN-SUFFIX,qingwapt.com
 DOMAIN-SUFFIX,qingwapt.org
@@ -1149,6 +1188,7 @@ DOMAIN-SUFFIX,secretchina.com
 DOMAIN-SUFFIX,secret-cinema.pw
 DOMAIN-SUFFIX,sedoparking.com
 DOMAIN-SUFFIX,seedfile.ro
+DOMAIN-SUFFIX,serv00.net
 DOMAIN-SUFFIX,sfacg.com
 DOMAIN-SUFFIX,sfbassets.com
 DOMAIN-SUFFIX,s-f-p.dyndns.dk
@@ -1206,6 +1246,7 @@ DOMAIN-SUFFIX,steamzg.com
 DOMAIN-SUFFIX,store.ubi.com
 DOMAIN-SUFFIX,streetvoice.cn
 DOMAIN-SUFFIX,strife8023.eu.org
+DOMAIN-SUFFIX,su7.run
 DOMAIN-SUFFIX,sukidesuost.info
 DOMAIN-SUFFIX,sunnypt.top
 DOMAIN-SUFFIX,superbits.org
@@ -1285,6 +1326,7 @@ DOMAIN-SUFFIX,torrnet.lanzout.com
 DOMAIN-SUFFIX,tosky.club
 DOMAIN-SUFFIX,totallykids.tv
 DOMAIN-SUFFIX,totheglory.im
+DOMAIN-SUFFIX,toubiec.cn
 DOMAIN-SUFFIX,toutiao50.com
 DOMAIN-SUFFIX,tozzger.com
 DOMAIN-SUFFIX,tr.tosky.club
@@ -1298,8 +1340,6 @@ DOMAIN-SUFFIX,trontv.com
 DOMAIN-SUFFIX,truegear.net
 DOMAIN-SUFFIX,trustarc.com
 DOMAIN-SUFFIX,tsctracker.org
-DOMAIN-SUFFIX,ts-dm.net
-DOMAIN-SUFFIX,tsdm39.com
 DOMAIN-SUFFIX,tsnest.cc
 DOMAIN-SUFFIX,ttsweb.org
 DOMAIN-SUFFIX,tt-torrent.com
@@ -1307,6 +1347,7 @@ DOMAIN-SUFFIX,tu88.men
 DOMAIN-SUFFIX,tuidang.org
 DOMAIN-SUFFIX,turktorrent.us
 DOMAIN-SUFFIX,tvchaosuk.com
+DOMAIN-SUFFIX,tvkj.cc
 DOMAIN-SUFFIX,tvstore.me
 DOMAIN-SUFFIX,tv-vault.me
 DOMAIN-SUFFIX,u2torrents.com
@@ -1327,9 +1368,11 @@ DOMAIN-SUFFIX,uploads.ltd
 DOMAIN-SUFFIX,uposdash-302-bilivideo.yfcdn.net
 DOMAIN-SUFFIX,upos-hz-mirrorakam.akamaized.net
 DOMAIN-SUFFIX,uservoice.com
+DOMAIN-SUFFIX,v.nxog.top
 DOMAIN-SUFFIX,velkaepocha.sk
 DOMAIN-SUFFIX,vgmdb.net
 DOMAIN-SUFFIX,vgmsite.com
+DOMAIN-SUFFIX,vicp.fun
 DOMAIN-SUFFIX,videoteka.org
 DOMAIN-SUFFIX,viglink.com
 DOMAIN-SUFFIX,vikacg.com
@@ -1354,6 +1397,7 @@ DOMAIN-SUFFIX,wintersakura.net
 DOMAIN-SUFFIX,wixsite.com
 DOMAIN-SUFFIX,wkhub.com
 DOMAIN-SUFFIX,wlgooo.com
+DOMAIN-SUFFIX,wogg.one
 DOMAIN-SUFFIX,worktile.com
 DOMAIN-SUFFIX,worldboxingvideoarchive.com
 DOMAIN-SUFFIX,wowang.net
@@ -1363,10 +1407,7 @@ DOMAIN-SUFFIX,wujieliulan.com
 DOMAIN-SUFFIX,wukongwendao.top
 DOMAIN-SUFFIX,wunderlist.com
 DOMAIN-SUFFIX,wusunk.com
-DOMAIN-SUFFIX,www.nicept.net
-DOMAIN-SUFFIX,www.okpt.net
-DOMAIN-SUFFIX,www.ptlover.cc
-DOMAIN-SUFFIX,www.ptzone.xyz
+DOMAIN-SUFFIX,x-ite.me
 DOMAIN-SUFFIX,x2xtt.sanyc.net
 DOMAIN-SUFFIX,xanxus.eu.org
 DOMAIN-SUFFIX,xauat6.edu.cn
@@ -1386,9 +1427,13 @@ DOMAIN-SUFFIX,xingyunge.top
 DOMAIN-SUFFIX,xingyungept.cn
 DOMAIN-SUFFIX,xingyungept.org
 DOMAIN-SUFFIX,xinsheng.net
-DOMAIN-SUFFIX,x-ite.me
 DOMAIN-SUFFIX,xiukee.net
 DOMAIN-SUFFIX,xmwav.com
+DOMAIN-SUFFIX,xn--4kq62z5rby2qupq9ub.top
+DOMAIN-SUFFIX,xn--sss604efuw.com
+DOMAIN-SUFFIX,xn--v4q818bf34b.com
+DOMAIN-SUFFIX,xn--yhqu5zs87a.top
+DOMAIN-SUFFIX,xn--z7x900a.com
 DOMAIN-SUFFIX,xp.m-team.cc
 DOMAIN-SUFFIX,xspeeds.eu
 DOMAIN-SUFFIX,xtremewrestlingtorrents.net
