@@ -1,19 +1,21 @@
 # 代理补充列表
 
 # 域名完整匹配
+DOMAIN,img.mikudm.net
+DOMAIN,img.ts-dm.net
+DOMAIN,img.tsdm39.com
+DOMAIN,tu.ts-dm.net
+DOMAIN,www.2cycdx.com
 DOMAIN,www.hifilib.com
 DOMAIN,www.tsdm39.com
-DOMAIN,img.ts-dm.net
-DOMAIN,tu.ts-dm.net
-DOMAIN,img.tsdm39.com
-DOMAIN,img.mikudm.net
 
 # 域名后缀匹配
+DOMAIN-SUFFIX,2cycdx.com
 DOMAIN-SUFFIX,hifilib.com
+DOMAIN-SUFFIX,mikudm.net
 DOMAIN-SUFFIX,ts-dm.net
 DOMAIN-SUFFIX,tsdm39.com
-DOMAIN-SUFFIX,mikudm.net
 
 # 域名关键字匹配
-DOMAIN-KEYWORD,tsdm39
 DOMAIN-KEYWORD,ts-dm
+DOMAIN-KEYWORD,tsdm39
