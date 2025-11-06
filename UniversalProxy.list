@@ -9,6 +9,7 @@ DOMAIN,api.viu.now.com
 DOMAIN,app.bluestacks.cn
 DOMAIN,assets.hcaptcha.com
 DOMAIN,auth.docker.io
+DOMAIN,bbs.tampermonkey.net.cn
 DOMAIN,bcbolthboa-a.akamaihd.net
 DOMAIN,blizzard.nefficient.co.kr
 DOMAIN,blzddist1-a.akamaihd.net
@@ -445,6 +446,7 @@ DOMAIN-SUFFIX,sunluomeng.top
 DOMAIN-SUFFIX,supertop.co
 DOMAIN-SUFFIX,sxsy.org
 DOMAIN-SUFFIX,sxsy97.com
+DOMAIN-SUFFIX,tampermonkey.net.cn
 DOMAIN-SUFFIX,tandfonline.com
 DOMAIN-SUFFIX,target.com
 DOMAIN-SUFFIX,tdesktop.com
