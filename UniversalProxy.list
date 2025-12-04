@@ -69,6 +69,7 @@ DOMAIN,registry.docker.io
 DOMAIN,registry.hub.docker.com
 DOMAIN,registry.k8s.io
 DOMAIN,registry-1.docker.io
+DOMAIN,remaker.ai
 DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN,share.dmhy.org
 DOMAIN,static.alimama.com
@@ -408,6 +409,7 @@ DOMAIN-SUFFIX,rakuten.co.jp
 DOMAIN-SUFFIX,rapidgator.net
 DOMAIN-SUFFIX,readcube.com
 DOMAIN-SUFFIX,recaptcha.net
+DOMAIN-SUFFIX,remaker.ai
 DOMAIN-SUFFIX,researchgate.net
 DOMAIN-SUFFIX,rsc.org
 DOMAIN-SUFFIX,rutracker.net
