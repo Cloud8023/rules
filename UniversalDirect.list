@@ -68,6 +68,7 @@ DOMAIN,pt.novahd.top
 DOMAIN,pt.xingyungept.org
 DOMAIN,public.tracker.vraphim.com
 DOMAIN,qixing.myhkw.com
+DOMAIN,qyapi.weixin.qq.com
 DOMAIN,raw.liucn.cc
 DOMAIN,retracker.hotplug.ru
 DOMAIN,retracker.lanta.me
@@ -1149,6 +1150,7 @@ DOMAIN-SUFFIX,qingwapt.org
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,qxbbs.org
+DOMAIN-SUFFIX,qyapi.weixin.qq.com
 DOMAIN-SUFFIX,r3vuk.wtf
 DOMAIN-SUFFIX,racing4everyone.eu
 DOMAIN-SUFFIX,racingfor.me
@@ -1491,7 +1493,8 @@ DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,torrent
 
 # ±¾µØIPÆ¥Åä
-IP-CIDR,10.10.10.0/24
+IP-CIDR,10.0.0.0/24,no-resolve
+IP-CIDR,24.233.3.116,no-resolve
 IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve
 IP-CIDR,52.58.128.163/32,no-resolve
