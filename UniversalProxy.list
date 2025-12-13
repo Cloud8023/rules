@@ -72,13 +72,11 @@ DOMAIN,registry.k8s.io
 DOMAIN,registry-1.docker.io
 DOMAIN,remaker.ai
 DOMAIN,s3-ap-southeast-1.amazonaws.com
-DOMAIN,share.dmhy.org
 DOMAIN,static.alimama.com
 DOMAIN,staticdelivery.nexusmods.com
 DOMAIN,static-mdb.v.geilijiasu.com
 DOMAIN,staticstats.nexusmods.com
 DOMAIN,tool.ouj.com
-DOMAIN,u2.dmhy.org
 DOMAIN,ud5.3lsoft.com
 DOMAIN,ud6.3lsoft.com
 DOMAIN,update.51nwt.com
@@ -197,7 +195,6 @@ DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,dilcdn.com
 DOMAIN-SUFFIX,discogs.com
 DOMAIN-SUFFIX,dmed.technology
-DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,dmm.com
 DOMAIN-SUFFIX,dockdoor.net
 DOMAIN-SUFFIX,docker.com
