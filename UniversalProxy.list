@@ -43,7 +43,6 @@ DOMAIN,e122475.dscg.akamaiedge.net
 DOMAIN,e13252.dscg.akamaiedge.net
 DOMAIN,fm.dl.126.net
 DOMAIN,free.gpt.ge
-DOMAIN,frodo.douban.com
 DOMAIN,global.ssl.fastly.net
 DOMAIN,hcaptcha.com
 DOMAIN,hikdownload.ys7.com
@@ -200,7 +199,6 @@ DOMAIN-SUFFIX,dockdoor.net
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
 DOMAIN-SUFFIX,dockerizer.com
-DOMAIN-SUFFIX,douban.com
 DOMAIN-SUFFIX,doubleclick.net
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,dropbox.com
