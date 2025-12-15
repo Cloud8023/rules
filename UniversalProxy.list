@@ -3,8 +3,11 @@
 # ”Ú√˚ÕÍ’˚∆•≈‰
 DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com
 DOMAIN,apk.tw
+DOMAIN,api.github.com
 DOMAIN,api.ipify.org
+DOMAIN,api.telegram.org
 DOMAIN,api.themoviedb.org
+DOMAIN,api.thetvdb.com
 DOMAIN,api.tmdb.org
 DOMAIN,api.viu.now.com
 DOMAIN,app.bluestacks.cn
@@ -88,6 +91,7 @@ DOMAIN,users.nexusmods.com
 DOMAIN,videodelivery.net
 DOMAIN,videos-f.jwpsrv.com
 DOMAIN,voidtools.com
+DOMAIN,webservice.fanart.tv
 DOMAIN,www.huaxiashuyu.com
 DOMAIN,www.manhuabudangbbs.com
 DOMAIN,www.nexusmods.com
@@ -455,11 +459,13 @@ DOMAIN-SUFFIX,target.com
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,terabox.com
 DOMAIN-SUFFIX,themarvelexperiencetour.com
+DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,theplatform.com
 DOMAIN-SUFFIX,thestationbymaker.com
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,thisispolaris.com
 DOMAIN-SUFFIX,tinypic.com
+DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,toptbdev.net
 DOMAIN-SUFFIX,tutanota.com
 DOMAIN-SUFFIX,tvb.com
