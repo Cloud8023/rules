@@ -1496,6 +1496,7 @@ DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,torrent
 
 # ±¾µØIPÆ¥Åä
+IP-CIDR,24.233.3.116,no-resolve
 IP-CIDR,10.0.0.0/24,no-resolve
 IP-CIDR,207.241.226.111/32,no-resolve
 IP-CIDR,207.241.231.226/32,no-resolve
