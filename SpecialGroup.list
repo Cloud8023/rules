@@ -1,26 +1,28 @@
 # 代理补充列表
 
 # 域名完整匹配
-DOMAIN,img.mikudm.net
-DOMAIN,img.ts-dm.net
-DOMAIN,img.tsdm39.com
-DOMAIN,tu.ts-dm.net
-DOMAIN,www.2cycdx.com
-DOMAIN,gamegs.xyz
-DOMAIN,www.hifilib.com
-DOMAIN,www.tsdm39.com
+DOMAIN,anime.girigirilove.icu
+DOMAIN,vi.softonic.com
+DOMAIN,www.deviantart.com
+DOMAIN,www.dmm.com
+DOMAIN,www.freeimages.com
+DOMAIN,www.olehdtv.com
+DOMAIN,www.theispot.com
+DOMAIN,www.totalav.com
 
 # 域名后缀匹配
-DOMAIN-SUFFIX,2cycdx.com
-DOMAIN-SUFFIX,gamegs.xyz
-DOMAIN-SUFFIX,hifilib.com
-DOMAIN-SUFFIX,iptorrents.com
-DOMAIN-SUFFIX,linux.do
-DOMAIN-SUFFIX,mcyacg.com
-DOMAIN-SUFFIX,mikudm.net
-DOMAIN-SUFFIX,ts-dm.net
-DOMAIN-SUFFIX,tsdm39.com
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,ts-dm
-DOMAIN-KEYWORD,tsdm39
+DOMAIN-SUFFIX,carboxyou.com
+DOMAIN-SUFFIX,deviantart.com
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,download-soundtracks.com
+DOMAIN-SUFFIX,freeimages.com
+DOMAIN-SUFFIX,gifer.com
+DOMAIN-SUFFIX,girigirilove.icu
+DOMAIN-SUFFIX,jeshoots.com
+DOMAIN-SUFFIX,kiz10.com
+DOMAIN-SUFFIX,olehdtv.com
+DOMAIN-SUFFIX,softonic.com
+DOMAIN-SUFFIX,theispot.com
+DOMAIN-SUFFIX,totalav.com
+DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,wikiwand.com
