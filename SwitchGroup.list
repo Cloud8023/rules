@@ -8,9 +8,11 @@ DOMAIN,tu.ts-dm.net
 DOMAIN,www.2cycdx.com
 DOMAIN,www.hifilib.com
 DOMAIN,www.tsdm39.com
+DOMAIN,u2.dmhy.org
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,2cycdx.com
+DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,gamegs.xyz
 DOMAIN-SUFFIX,hifilib.com
 DOMAIN-SUFFIX,iptorrents.com
