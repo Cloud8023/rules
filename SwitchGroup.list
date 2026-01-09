@@ -1,6 +1,7 @@
 # 代理补充列表
 
 # 域名完整匹配
+DOMAIN,chanel.weyolo.com
 DOMAIN,img.mikudm.net
 DOMAIN,img.ts-dm.net
 DOMAIN,img.tsdm39.com
@@ -21,6 +22,7 @@ DOMAIN-SUFFIX,mikudm.net
 DOMAIN-SUFFIX,star-space.net
 DOMAIN-SUFFIX,ts-dm.net
 DOMAIN-SUFFIX,tsdm39.com
+DOMAIN-SUFFIX,weyolo.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,ts-dm
