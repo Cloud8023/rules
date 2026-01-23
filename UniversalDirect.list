@@ -26,8 +26,10 @@ DOMAIN,buny.uk
 DOMAIN,cdn1-sea1.valve.net
 DOMAIN,cdn2-sea1.valve.net
 DOMAIN,chat.deepseek.com
+DOMAIN,club.fnnas.com
 DOMAIN,concen.org
 DOMAIN,d40969.acod.regrucolo.ru
+DOMAIN,docker.fnnas.com
 DOMAIN,download.jetbrains.com
 DOMAIN,evan.im
 DOMAIN,exodus.desync.com
@@ -511,7 +513,6 @@ DOMAIN-SUFFIX,cliente.amigos-share.club
 DOMAIN-SUFFIX,cloud.189.cn
 DOMAIN-SUFFIX,cloudapp.net
 DOMAIN-SUFFIX,cloudappsecurity.com
-DOMAIN-SUFFIX,club.fnnas.com
 DOMAIN-SUFFIX,club.hares.top
 DOMAIN-SUFFIX,clubhipo.com
 DOMAIN-SUFFIX,cn.chartoo.com
@@ -637,6 +638,7 @@ DOMAIN-SUFFIX,flipwithsurface.com
 DOMAIN-SUFFIX,fluxzone.org
 DOMAIN-SUFFIX,flysheep.ysepan.com
 DOMAIN-SUFFIX,flysheep6.com
+DOMAIN-SUFFIX,fnnas.com
 DOMAIN-SUFFIX,foro.unionfansub.com
 DOMAIN-SUFFIX,foxacg.com
 DOMAIN-SUFFIX,freehardmusic.com
