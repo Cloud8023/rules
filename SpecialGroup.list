@@ -6,9 +6,11 @@ DOMAIN,vi.softonic.com
 DOMAIN,www.deviantart.com
 DOMAIN,www.dmm.com
 DOMAIN,www.freeimages.com
+DOMAIN,www.lyrical-nonsense.com
 DOMAIN,www.olehdtv.com
 DOMAIN,www.theispot.com
 DOMAIN,www.totalav.com
+DOMAIN,www.uta-net.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,carboxyou.com
@@ -18,8 +20,10 @@ DOMAIN-SUFFIX,download-soundtracks.com
 DOMAIN-SUFFIX,freeimages.com
 DOMAIN-SUFFIX,gifer.com
 DOMAIN-SUFFIX,girigirilove.icu
+DOMAIN-SUFFIX,j-lyric.net
 DOMAIN-SUFFIX,jeshoots.com
 DOMAIN-SUFFIX,kiz10.com
+DOMAIN-SUFFIX,lyrical-nonsense.com
 DOMAIN-SUFFIX,mora.jp
 DOMAIN-SUFFIX,olehdtv.com
 DOMAIN-SUFFIX,ototoy.jp
@@ -27,6 +31,8 @@ DOMAIN-SUFFIX,softonic.com
 DOMAIN-SUFFIX,theispot.com
 DOMAIN-SUFFIX,totalav.com
 DOMAIN-SUFFIX,ubuntu.com
+DOMAIN-SUFFIX,uta-net.com
+DOMAIN-SUFFIX,utaten.com
 DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikiwand.com
