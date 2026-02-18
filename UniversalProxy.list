@@ -148,6 +148,7 @@ DOMAIN,www.jiedm.com
 DOMAIN,www.lifeofpix.com
 DOMAIN,www.manhuabudangbbs.com
 DOMAIN,www.mazegenerator.net
+DOMAIN,www.mcy006.blog
 DOMAIN,www.media.io
 DOMAIN,www.mhx12.com
 DOMAIN,www.miobt.com
@@ -181,6 +182,7 @@ DOMAIN,zh.proxyscrape.com
 DOMAIN,zh.savefrom.net
 
 # ÓòÃûºó×ºÆ¥Åä
+DOMAIN-SUFFIX,18moe.net
 DOMAIN-SUFFIX,1drv.com
 DOMAIN-SUFFIX,1drv.ms
 DOMAIN-SUFFIX,1fuli.xyz
@@ -511,6 +513,8 @@ DOMAIN-SUFFIX,marvelspotlightplays.com
 DOMAIN-SUFFIX,marvelsuperheroseptember.com
 DOMAIN-SUFFIX,marvelsuperwar.com
 DOMAIN-SUFFIX,mazegenerator.net
+DOMAIN-SUFFIX,mcy005.blog
+DOMAIN-SUFFIX,mcy006.blog
 DOMAIN-SUFFIX,mdpi.com
 DOMAIN-SUFFIX,media.io
 DOMAIN-SUFFIX,mediafire.com
