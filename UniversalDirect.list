@@ -46,6 +46,7 @@ DOMAIN,ipv4announce.sktorrent.eu
 DOMAIN,ipv6.rer.lol
 DOMAIN,isk.richardsw.club
 DOMAIN,martin-gebhardt.eu
+DOMAIN,mua.xloli.cc
 DOMAIN,musicbrainz.org
 DOMAIN,ns3109441.mypdns.org
 DOMAIN,nyaa.tracker.wf
@@ -64,6 +65,8 @@ DOMAIN,p4p.arenabg.com
 DOMAIN,p-bstarstatic.akamaized.net
 DOMAIN,pan.baidu.com
 DOMAIN,pan.quark.cn
+DOMAIN,pt.521.best
+DOMAIN,pt.muxuege.org
 DOMAIN,pt.novahd.top
 DOMAIN,pt.xingyungept.org
 DOMAIN,public.tracker.vraphim.com
@@ -249,8 +252,10 @@ DOMAIN,wogg.333232.xyz
 DOMAIN,www.agedm.io
 DOMAIN,www.all4nothin.net
 DOMAIN,www.genesis-sp.org
+DOMAIN,www.immersivetranslate.net
 DOMAIN,www.kimi.com
 DOMAIN,www.miqk.cc
+DOMAIN,www.musopia.vip
 DOMAIN,www.nicept.net
 DOMAIN,www.okpt.net
 DOMAIN,www.ptlover.cc
@@ -290,6 +295,7 @@ DOMAIN-SUFFIX,51cto.com
 DOMAIN-SUFFIX,51flacmusic.com
 DOMAIN-SUFFIX,520810.xyz
 DOMAIN-SUFFIX,520switch.com
+DOMAIN-SUFFIX,521.best
 DOMAIN-SUFFIX,52pojie.cn
 DOMAIN-SUFFIX,52pt.site
 DOMAIN-SUFFIX,52wusun.com
@@ -763,6 +769,7 @@ DOMAIN-SUFFIX,im9.com
 DOMAIN-SUFFIX,imageban.ru
 DOMAIN-SUFFIX,imagesplitter.vip
 DOMAIN-SUFFIX,imgbox.com
+DOMAIN-SUFFIX,immersivetranslate.net
 DOMAIN-SUFFIX,immortalseed.me
 DOMAIN-SUFFIX,imnks.com
 DOMAIN-SUFFIX,indietorrents.com
@@ -858,6 +865,7 @@ DOMAIN-SUFFIX,le-cinephile.de
 DOMAIN-SUFFIX,leech24.net
 DOMAIN-SUFFIX,leiyanhui.com
 DOMAIN-SUFFIX,lemonhd.club
+DOMAIN-SUFFIX,lemonhd.net
 DOMAIN-SUFFIX,lemonhd.org
 DOMAIN-SUFFIX,lesaloonv2-0.xyz
 DOMAIN-SUFFIX,lesbians4u.org
@@ -956,6 +964,8 @@ DOMAIN-SUFFIX,musicbrainz.org
 DOMAIN-SUFFIX,musicenc.com
 DOMAIN-SUFFIX,musictorrents.org
 DOMAIN-SUFFIX,music-vid.com
+DOMAIN-SUFFIX,musopia.vip
+DOMAIN-SUFFIX,muxuege.org
 DOMAIN-SUFFIX,myaltbox.com
 DOMAIN-SUFFIX,myanimelist.net
 DOMAIN-SUFFIX,myanonamouse.net
@@ -1404,6 +1414,7 @@ DOMAIN-SUFFIX,xingyungept.cn
 DOMAIN-SUFFIX,xingyungept.org
 DOMAIN-SUFFIX,xinsheng.net
 DOMAIN-SUFFIX,xiukee.net
+DOMAIN-SUFFIX,xloli.cc
 DOMAIN-SUFFIX,xmwav.com
 DOMAIN-SUFFIX,xp.m-team.cc
 DOMAIN-SUFFIX,xspeeds.eu
