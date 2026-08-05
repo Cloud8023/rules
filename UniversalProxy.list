@@ -33,6 +33,7 @@ DOMAIN,cej.ryxhe.com
 DOMAIN,cf-files.nexusmods.com
 DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net
 DOMAIN,cgi.kg.qq.com
+DOMAIN,challenges.cloudflare.com
 DOMAIN,chatgpt.ddiu.me
 DOMAIN,chat-preview.lobehub.com
 DOMAIN,client-api.arkoselabs.com
@@ -829,7 +830,6 @@ DOMAIN-SUFFIX,z-library.la
 DOMAIN-SUFFIX,zmk.pw
 
 # ÓòÃû¹Ø¼ü×ÖÆ¥Åä
-DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,slack
 DOMAIN-KEYWORD,spotify
