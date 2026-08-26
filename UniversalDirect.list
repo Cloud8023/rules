@@ -59,6 +59,7 @@ DOMAIN,open.trackerlist.xyz
 DOMAIN,opentor.org
 DOMAIN,opentracker.io
 DOMAIN,p.bstarstatic.com
+DOMAIN,p.t-baozi.cc
 DOMAIN,p1.bdxiguaimg.com
 DOMAIN,p2p.publictracker.xyz
 DOMAIN,p4p.arenabg.com
@@ -135,7 +136,7 @@ DOMAIN,tracker.gigantino.net
 DOMAIN,tracker.gmi.gd
 DOMAIN,tracker.greatposterwall.com
 DOMAIN,tracker.hdarea.club
-DOMAIN,tracker.hdclone.org
+DOMAIN,tracker.hdclone.top
 DOMAIN,tracker.hdkyl.in
 DOMAIN,tracker.hdtime.org
 DOMAIN,tracker.hhan.club
@@ -586,8 +587,8 @@ DOMAIN-SUFFIX,downloads.khinsider.com
 DOMAIN-SUFFIX,dragonhd.xyz
 DOMAIN-SUFFIX,dreamingtree.org
 DOMAIN-SUFFIX,drugari.org
-DOMAIN-SUFFIX,dstudio.me
 DOMAIN-SUFFIX,dsd.tcyinyue.com
+DOMAIN-SUFFIX,dstudio.me
 DOMAIN-SUFFIX,dtshot.com
 DOMAIN-SUFFIX,dubhe.site
 DOMAIN-SUFFIX,duokan.club
@@ -706,6 +707,7 @@ DOMAIN-SUFFIX,hdbd.us
 DOMAIN-SUFFIX,hdbits.org
 DOMAIN-SUFFIX,hdchina.org
 DOMAIN-SUFFIX,hdcity.city
+DOMAIN-SUFFIX,hdclone.top
 DOMAIN-SUFFIX,hd-cztorrent.cz
 DOMAIN-SUFFIX,hddolby.com
 DOMAIN-SUFFIX,hdf.world
@@ -875,6 +877,7 @@ DOMAIN-SUFFIX,libble.me
 DOMAIN-SUFFIX,libranet.org
 DOMAIN-SUFFIX,limit-of-eden.com
 DOMAIN-SUFFIX,linkomanija.net
+DOMAIN-SUFFIX,longpt.org
 DOMAIN-SUFFIX,losslessclub.com
 DOMAIN-SUFFIX,lp-bits.com
 DOMAIN-SUFFIX,lst.gg
@@ -1088,7 +1091,6 @@ DOMAIN-SUFFIX,pt.eastgame.org
 DOMAIN-SUFFIX,pt.ecust.pp.ua
 DOMAIN-SUFFIX,pt.hd4fans.org
 DOMAIN-SUFFIX,pt.hdbd.us
-DOMAIN-SUFFIX,pt.hdclone.top
 DOMAIN-SUFFIX,pt.hdpost.top
 DOMAIN-SUFFIX,pt.hdupt.com
 DOMAIN-SUFFIX,pt.inswan.fun
@@ -1114,6 +1116,7 @@ DOMAIN-SUFFIX,ptfans.cc
 DOMAIN-SUFFIX,ptfiles.net
 DOMAIN-SUFFIX,pthome.net
 DOMAIN-SUFFIX,ptl.gs
+DOMAIN-SUFFIX,ptlao.top
 DOMAIN-SUFFIX,ptlgs.org
 DOMAIN-SUFFIX,ptlover.cc
 DOMAIN-SUFFIX,ptlsp.com
@@ -1258,8 +1261,10 @@ DOMAIN-SUFFIX,t.pthome.net
 DOMAIN-SUFFIX,t.pthome.org
 DOMAIN-SUFFIX,t.tosky.club
 DOMAIN-SUFFIX,t.ubits.club
+DOMAIN-SUFFIX,t-baozi.cc
 DOMAIN-SUFFIX,t3nnis.tv
 DOMAIN-SUFFIX,talk.tenyardtracker.com
+DOMAIN-SUFFIX,tangpt.top
 DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tapochek.net
 DOMAIN-SUFFIX,tasmanit.es
@@ -1410,6 +1415,7 @@ DOMAIN-SUFFIX,xianyudanji.ai
 DOMAIN-SUFFIX,xianyudanji.net
 DOMAIN-SUFFIX,xidian.edu.cn
 DOMAIN-SUFFIX,xingtan.one
+DOMAIN-SUFFIX,xingwan.cc
 DOMAIN-SUFFIX,xingyunge.top
 DOMAIN-SUFFIX,xingyungept.cn
 DOMAIN-SUFFIX,xingyungept.org
