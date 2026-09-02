@@ -15,6 +15,7 @@ DOMAIN,222-188-6-1.ksyungslb.com
 DOMAIN,36-104-134-1.ksyungslb.com
 DOMAIN,36-25-252-1.ksyungslb.com
 DOMAIN,700sjro44343.vicp.fun
+DOMAIN,audiences.me
 DOMAIN,bandito.byterunner.io
 DOMAIN,bittorrent-tracker.e-n-c-r-y-p-t.net
 DOMAIN,bt.ktrackers.com
@@ -88,6 +89,7 @@ DOMAIN,st.dl.bscstorage.net
 DOMAIN,static-mdb.v.geilijiasu.com
 DOMAIN,store.epicgames.com
 DOMAIN,t.213891.xyz
+DOMAIN,t.audiences.me
 DOMAIN,t.jaekr.sh
 DOMAIN,t.myaltbox.com
 DOMAIN,t.overflow.biz
@@ -377,7 +379,6 @@ DOMAIN-SUFFIX,aspnetcdn.com
 DOMAIN-SUFFIX,assets-yammer.com
 DOMAIN-SUFFIX,async.empirehost.me
 DOMAIN-SUFFIX,atcdw.com
-DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,audionews.org
 DOMAIN-SUFFIX,aussierul.es
 DOMAIN-SUFFIX,avgv.cc
@@ -1253,7 +1254,6 @@ DOMAIN-SUFFIX,sync.leniter.org
 DOMAIN-SUFFIX,synocommunity.com
 DOMAIN-SUFFIX,synology.com
 DOMAIN-SUFFIX,synology.sysco.ch
-DOMAIN-SUFFIX,t.audiences.me
 DOMAIN-SUFFIX,t.et8.org
 DOMAIN-SUFFIX,t.hddolby.com
 DOMAIN-SUFFIX,t.hdhome.org
