@@ -86,6 +86,7 @@ DOMAIN,licdn.cn.cdn20.com
 DOMAIN,linkedin.sc.omtrdc.net
 DOMAIN,litvfreemobile-hichannel.cdn.hinet.net
 DOMAIN,lz.qaiu.top
+DOMAIN,m.dian115.com
 DOMAIN,manifest.prod.boltdns.net
 DOMAIN,music.gdstudio.xyz
 DOMAIN,mzh.moegirl.org.cn
@@ -331,6 +332,7 @@ DOMAIN-SUFFIX,descript.com
 DOMAIN-SUFFIX,deskto.ps
 DOMAIN-SUFFIX,dezgo.com
 DOMAIN-SUFFIX,dialogflow.com
+DOMAIN-SUFFIX,dian115.com
 DOMAIN-SUFFIX,dilcdn.com
 DOMAIN-SUFFIX,discogs.com
 DOMAIN-SUFFIX,dk95.com
@@ -380,6 +382,7 @@ DOMAIN-SUFFIX,espndotcom.tt.omtrdc.net
 DOMAIN-SUFFIX,espnqa.com
 DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com
 DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,fantasyfactory.xyz
 DOMAIN-SUFFIX,fappaizuri.me
 DOMAIN-SUFFIX,fast.com
@@ -457,6 +460,7 @@ DOMAIN-SUFFIX,huaxiashuyu.com
 DOMAIN-SUFFIX,huli100.com
 DOMAIN-SUFFIX,hulu.jp
 DOMAIN-SUFFIX,hulustream.com
+DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,hwcdn.net
 DOMAIN-SUFFIX,hyread.com.tw
 DOMAIN-SUFFIX,ibtimes.com
@@ -727,6 +731,7 @@ DOMAIN-SUFFIX,starwarskids.com
 DOMAIN-SUFFIX,staticasiafox.akamaized.net
 DOMAIN-SUFFIX,steamcontent.com
 DOMAIN-SUFFIX,steemitwallet.com
+DOMAIN-SUFFIX,steamstat.us
 DOMAIN-SUFFIX,stocksnap.io
 DOMAIN-SUFFIX,storage.msn.com
 DOMAIN-SUFFIX,stray-soul.com
@@ -834,8 +839,4 @@ DOMAIN-SUFFIX,z-library.la
 DOMAIN-SUFFIX,zmk.pw
 
 # ÓòÃû¹Ø¼ü×ÖÆ¥Åä
-DOMAIN-KEYWORD,github
 DOMAIN-KEYWORD,slack
-DOMAIN-KEYWORD,spotify
-DOMAIN-KEYWORD,steam
-DOMAIN-KEYWORD,tidal
