@@ -1,6 +1,3 @@
-# 代理补充列表
-
-# 域名完整匹配
 DOMAIN,anime.girigirilove.icu
 DOMAIN,challenges.cloudflare.com
 DOMAIN,vi.softonic.com
@@ -12,8 +9,6 @@ DOMAIN,www.olehdtv.com
 DOMAIN,www.theispot.com
 DOMAIN,www.totalav.com
 DOMAIN,www.uta-net.com
-
-# 域名后缀匹配
 DOMAIN-SUFFIX,carboxyou.com
 DOMAIN-SUFFIX,deviantart.com
 DOMAIN-SUFFIX,dmm.com
@@ -21,8 +16,8 @@ DOMAIN-SUFFIX,download-soundtracks.com
 DOMAIN-SUFFIX,freeimages.com
 DOMAIN-SUFFIX,gifer.com
 DOMAIN-SUFFIX,girigirilove.icu
-DOMAIN-SUFFIX,j-lyric.net
 DOMAIN-SUFFIX,jeshoots.com
+DOMAIN-SUFFIX,j-lyric.net
 DOMAIN-SUFFIX,kiz10.com
 DOMAIN-SUFFIX,lyrical-nonsense.com
 DOMAIN-SUFFIX,mora.jp

@@ -1,18 +1,15 @@
-# 代理补充列表
-
-# 域名完整匹配
 DOMAIN,chanel.weyolo.com
 DOMAIN,img.mikudm.net
 DOMAIN,img.ts-dm.net
 DOMAIN,img.tsdm39.com
 DOMAIN,tu.ts-dm.net
+DOMAIN,u2.dmhy.org
 DOMAIN,www.2cycdx.com
 DOMAIN,www.8cmh.com
 DOMAIN,www.hifilib.com
 DOMAIN,www.tsdm39.com
-DOMAIN,u2.dmhy.org
-
-# 域名后缀匹配
+DOMAIN-KEYWORD,ts-dm
+DOMAIN-KEYWORD,tsdm39
 DOMAIN-SUFFIX,2cycdx.com
 DOMAIN-SUFFIX,8cmh.com
 DOMAIN-SUFFIX,dmhy.org
@@ -25,7 +22,3 @@ DOMAIN-SUFFIX,star-space.net
 DOMAIN-SUFFIX,ts-dm.net
 DOMAIN-SUFFIX,tsdm39.com
 DOMAIN-SUFFIX,weyolo.com
-
-# 域名关键字匹配
-DOMAIN-KEYWORD,ts-dm
-DOMAIN-KEYWORD,tsdm39
