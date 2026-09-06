@@ -28,7 +28,9 @@ DOMAIN,bt1.xxxxbt.cc
 DOMAIN,bt2.archive.org
 DOMAIN,bvarf.tracker.sh
 DOMAIN,cc.mypt.cc
+DOMAIN,cdnbest.itzmx.com
 DOMAIN,cerf.cs.umd.edu
+DOMAIN,cf.itzmx.net
 DOMAIN,cliente.amigos-share.club
 DOMAIN,club.hares.top
 DOMAIN,coeus.torrentonline.cc
@@ -36,7 +38,6 @@ DOMAIN,evan.im
 DOMAIN,exodus.desync.com
 DOMAIN,extracker.dahrkael.net
 DOMAIN,foro.unionfansub.com
-DOMAIN,hhanclub.net
 DOMAIN,hudbt.hust.edu.cn
 DOMAIN,ice.beelyrics.net
 DOMAIN,ipv4.joyhd.net
@@ -132,7 +133,6 @@ DOMAIN,torrent.tracker.durukanbal.com
 DOMAIN,torrentclub.online
 DOMAIN,torrents.tmtime.dev
 DOMAIN,torrentsmd.com
-DOMAIN,totheglory.im
 DOMAIN,tr.abiir.top
 DOMAIN,tr.highstar.shop
 DOMAIN,tr.kxmp.cf
@@ -891,6 +891,7 @@ DOMAIN-SUFFIX,ipv6-test.com
 DOMAIN-SUFFIX,irrenhaus.dyndns.dk.php
 DOMAIN-SUFFIX,itatorrents.xyz
 DOMAIN-SUFFIX,itzmx.com
+DOMAIN-SUFFIX,itzmx.net
 DOMAIN-SUFFIX,j99.info
 DOMAIN-SUFFIX,janemusic.org
 DOMAIN-SUFFIX,jeremylee.sh
@@ -1701,6 +1702,7 @@ DOMAIN-SUFFIX,xbtmusic.org
 DOMAIN-SUFFIX,xbytesv2.li
 DOMAIN-SUFFIX,xidian.edu.cn
 DOMAIN-SUFFIX,xingtan.one
+DOMAIN-SUFFIX,xingtan.xyz
 DOMAIN-SUFFIX,xingwan.cc
 DOMAIN-SUFFIX,xingyunge.top
 DOMAIN-SUFFIX,xingyungept.cn
@@ -1736,8 +1738,6 @@ DOMAIN-SUFFIX,zonaq.pw
 DOMAIN-SUFFIX,ztracker.cc
 DOMAIN-KEYWORD,announce
 DOMAIN-KEYWORD,chdbits
-DOMAIN-KEYWORD,hhan
-DOMAIN-KEYWORD,hhanclub
 DOMAIN-KEYWORD,m-team
 DOMAIN-KEYWORD,tjupt
 DOMAIN-KEYWORD,torrent
