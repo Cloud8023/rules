@@ -1,0 +1,1 @@
+ruleset=⚡ 绕过,https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/meta/geo/geosite/private.list

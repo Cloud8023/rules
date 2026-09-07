@@ -59,7 +59,7 @@ jobs:
           DATE_SUFFIX=$(date -u +"%Y-%m-%d")
           RUN_COUNT=$(git tag -l "${DATE_SUFFIX}-*" | wc -l)
           VERSION_TAG="${DATE_SUFFIX}-${RUN_COUNT}"
-          VERSIONED_OUTPUT_DIR="versioned/$VERSION_TAG"
+          VERSIONED_OUTPUT_DIR="versioned_rules/$VERSION_TAG"
           RULES_OUTPUT_DIR="$VERSIONED_OUTPUT_DIR/rules"
           mkdir -p "$RULES_OUTPUT_DIR"
           
@@ -362,7 +362,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add latest/ versioned/ mrs_rules.md provider_config.yaml
+          git add latest/ versioned_rules/ mrs_rules.md provider_config.yaml
           
           # 【已更新】总是推送标签，以确保即使没有文件更改，运行计数也能正确增加
           echo "Pushing tag ${{ env.VERSION_TAG }} to ensure run count is updated..."
