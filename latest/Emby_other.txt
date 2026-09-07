@@ -1,1 +1,0 @@
-PROCESS-NAME,com.mb.android
