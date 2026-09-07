@@ -325,7 +325,7 @@ jobs:
           grep -E -- '- RULE-SET' "$PROVIDER_CONFIG_PATH" >> "$MRS_RULES_MD" || true
           echo '```' >> "$MRS_RULES_MD"
 
-          # --- 创建 latest 目录并复制最新文件 ---
+          # --- 创建 Geo 目录并复制最新文件 ---
           LATEST_DIR="Geo"
           echo "Ensuring a clean 'Geo' directory by removing and recreating it..."
           rm -rf "$LATEST_DIR"

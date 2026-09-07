@@ -10,3 +10,4 @@ ruleset=⚡ 绕过,https://raw.githubusercontent.com/ACGZOOM/rules/main/Classica
 ruleset=🐬 切换代理,https://raw.githubusercontent.com/ACGZOOM/rules/main/Classical/SwitchProxy.list
 ruleset=✨ 特殊代理,https://raw.githubusercontent.com/ACGZOOM/rules/main/Classical/SpecialProxy.list
 ruleset=🚁 自用代理,https://raw.githubusercontent.com/ACGZOOM/rules/main/Classical/CustomProxy.list
+ruleset=🚀 默认代理,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
