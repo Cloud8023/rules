@@ -59,7 +59,7 @@ jobs:
           DATE_SUFFIX=$(date -u +"%Y-%m-%d")
           RUN_COUNT=$(git tag -l "${DATE_SUFFIX}-*" | wc -l)
           VERSION_TAG="${DATE_SUFFIX}-${RUN_COUNT}"
-          VERSIONED_OUTPUT_DIR="versioned/$VERSION_TAG"
+          VERSIONED_OUTPUT_DIR="Archived/$VERSION_TAG"
           RULES_OUTPUT_DIR="$VERSIONED_OUTPUT_DIR/rules"
           mkdir -p "$RULES_OUTPUT_DIR"
           
@@ -88,7 +88,7 @@ jobs:
 
               local provider_name="$base_name"
               local final_raw_file="$output_dir/${base_name}.txt"
-              local url_path="main/latest/${base_name}"
+              local url_path="main/Geo/${base_name}"
               local success=false
 
               if [[ "$type" == "classical" ]]; then
@@ -326,8 +326,8 @@ jobs:
           echo '```' >> "$MRS_RULES_MD"
 
           # --- 创建 latest 目录并复制最新文件 ---
-          LATEST_DIR="latest"
-          echo "Ensuring a clean 'latest' directory by removing and recreating it..."
+          LATEST_DIR="Geo"
+          echo "Ensuring a clean 'Geo' directory by removing and recreating it..."
           rm -rf "$LATEST_DIR"
           mkdir -p "$LATEST_DIR"
 
@@ -362,7 +362,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          git add latest/ versioned/ mrs_rules.md provider_config.yaml
+          git add Geo/ Archived/ mrs_rules.md provider_config.yaml
           
           # 【已更新】总是推送标签，以确保即使没有文件更改，运行计数也能正确增加
           echo "Pushing tag ${{ env.VERSION_TAG }} to ensure run count is updated..."
