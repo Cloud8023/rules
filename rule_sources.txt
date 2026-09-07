@@ -1,0 +1,13 @@
+ruleset=⚡ 绕过,https://raw.githubusercontent.com/wwqgtxx/clash-rules/release/fakeip-filter.list
+ruleset=⚡ 绕过,https://raw.githubusercontent.com/ACGZOOM/rules/main/geo/PrivateTracker.list
+ruleset=🕳️ 黑洞,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanAD.list
+ruleset=🕳️ 黑洞,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanProgramAD.list
+ruleset=🖥️ Steam,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/SteamRegionCheck.list
+ruleset=🎧 MusicStreaming,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/Qobuz.list
+ruleset=🎧 MusicStreaming,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/YouTubeMusic.list
+ruleset=🎧 MusicStreaming,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Ruleset/JOOX.list
+ruleset=⚡ 绕过,https://raw.githubusercontent.com/ACGZOOM/rules/main/geo/CustomlDirect.list
+ruleset=🐬 切换代理,https://raw.githubusercontent.com/ACGZOOM/rules/main/geo/SwitchProxy.list
+ruleset=✨ 特殊代理,https://raw.githubusercontent.com/ACGZOOM/rules/main/geo/SpecialProxy.list
+ruleset=🚁 自用代理,https://raw.githubusercontent.com/ACGZOOM/rules/main/geo/CustomProxy.list
+ruleset=▶️ ProxyMedia,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/ProxyMedia.list
