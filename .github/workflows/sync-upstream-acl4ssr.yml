@@ -24,17 +24,21 @@ jobs:
       - name: 拉取上游并同步
         run: |
           git remote add upstream https://github.com/ACL4SSR/ACL4SSR.git
-          git fetch upstream
+          
+          # 关键1：只拉取分支，不拉取任何标签（Tag）
+          git fetch upstream --no-tags
+          
           git reset --hard upstream/master
           
-          # 关键：删除上游自带的工作流目录，避免权限拦截和多余任务
+          # 关键2：删除上游自带的工作流目录，阻止自动发布脚本运行
           rm -rf .github
           
-          # 如果有变更才提交，避免空提交
+          # 有变更才提交，避免空提交
           if [ -n "$(git status --porcelain)" ]; then
             git add -A
             git commit -m "sync: 同步上游 ACL4SSR 规则"
-            git push origin ACL4SSR --force
+            # 关键3：推送时也不同步标签
+            git push origin ACL4SSR --force --no-tags
           else
             echo "上游无更新，跳过推送"
           fi
