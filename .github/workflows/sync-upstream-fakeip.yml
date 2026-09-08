@@ -1,0 +1,33 @@
+name: 同步上游 clash-rules release 分支
+on:
+  schedule:
+    # 每天北京时间 9:25 执行（UTC 01:25）
+    - cron: '25 1 * * *'
+  workflow_dispatch: # 开启手动触发
+
+jobs:
+  sync-fakeip:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          ref: fakeip # 检出你仓库的 fakeip 分支
+
+      - name: 配置 Git 身份
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: 拉取上游并同步
+        run: |
+          # 添加上游 clash-rules 仓库
+          git remote add upstream https://github.com/wwqgtxx/clash-rules.git
+          git fetch upstream
+          # 强制重置本地 fakeip 分支 = 上游 release 分支最新状态
+          git reset --hard upstream/release
+          # 强制推送到你仓库的 fakeip 分支
+          git push origin fakeip --force
