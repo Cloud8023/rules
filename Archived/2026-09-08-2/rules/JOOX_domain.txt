@@ -1,0 +1,2 @@
+DOMAIN-KEYWORD,jooxweb-api
+DOMAIN-SUFFIX,joox.com
