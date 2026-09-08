@@ -1,0 +1,33 @@
+name: 同步上游 sing 分支
+on:
+  schedule:
+    # 每天北京时间 9:15 执行（UTC 01:15）
+    - cron: '15 1 * * *'
+  workflow_dispatch: # 开启手动触发
+
+jobs:
+  sync-sing:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+          ref: sing # 检出你仓库的 sing 分支
+
+      - name: 配置 Git 身份
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: 拉取上游并同步
+        run: |
+          # 添加上游仓库（和 meta / release 分支共用同一个上游地址）
+          git remote add upstream https://github.com/MetaCubeX/meta-rules-dat.git
+          git fetch upstream
+          # 强制重置本地 sing 分支 = 上游 sing 分支最新状态
+          git reset --hard upstream/sing
+          # 强制推送到你仓库的 sing 分支
+          git push origin sing --force
