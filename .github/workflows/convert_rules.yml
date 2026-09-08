@@ -6,7 +6,7 @@ on:
       - main
   workflow_dispatch: # 允许手动触发
   schedule:
-    - cron: '10 1 * * *' # 每天 UTC 时间 01:10 运行
+    - cron: '55 0 * * *' # 每天 UTC 时间 00:55 运行
 
 jobs:
   convert-rules:
