@@ -1,9 +1,8 @@
 name: 同步上游 ACL4SSR master 分支
 on:
   schedule:
-    # 每天北京时间 9:20 执行（UTC 01:20）
     - cron: '20 1 * * *'
-  workflow_dispatch: # 开启手动触发
+  workflow_dispatch:
 
 jobs:
   sync-acl4ssr:
@@ -15,7 +14,7 @@ jobs:
         uses: actions/checkout@v5
         with:
           fetch-depth: 0
-          ref: ACL4SSR # 检出你仓库的 ACL4SSR 分支
+          ref: ACL4SSR
 
       - name: 配置 Git 身份
         run: |
@@ -24,10 +23,18 @@ jobs:
 
       - name: 拉取上游并同步
         run: |
-          # 添加上游 ACL4SSR 仓库
           git remote add upstream https://github.com/ACL4SSR/ACL4SSR.git
           git fetch upstream
-          # 强制重置本地 ACL4SSR 分支 = 上游 master 分支最新状态
           git reset --hard upstream/master
-          # 强制推送到你仓库的 ACL4SSR 分支
-          git push origin ACL4SSR --force
+          
+          # 关键：删除上游自带的工作流目录，避免权限拦截和多余任务
+          rm -rf .github
+          
+          # 如果有变更才提交，避免空提交
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "sync: 同步上游 ACL4SSR 规则"
+            git push origin ACL4SSR --force
+          else
+            echo "上游无更新，跳过推送"
+          fi
