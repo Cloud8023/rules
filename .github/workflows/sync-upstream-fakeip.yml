@@ -1,7 +1,6 @@
 name: 同步上游 clash-rules release 分支
 on:
   schedule:
-    # 每天北京时间 9:25 执行（UTC 01:25）
     - cron: '25 1 * * *'
   workflow_dispatch:
 
@@ -24,21 +23,36 @@ jobs:
 
       - name: 拉取上游并同步
         run: |
+          set -euxo pipefail
+
+          # 清理已存在的上游远程
+          git remote remove upstream 2>/dev/null || true
           git remote add upstream https://github.com/wwqgtxx/clash-rules.git
-          
-          # 关键1：只拉取分支，不拉取任何标签（Tag）
-          git fetch upstream --no-tags
-          
+
+          # 只拉取 release 分支，不拉标签
+          git fetch upstream release --no-tags
+
+          # 记录重置前后的哈希
+          LOCAL_BEFORE=$(git rev-parse HEAD)
+          REMOTE_HASH=$(git rev-parse upstream/release)
+          echo "本地重置前: $LOCAL_BEFORE"
+          echo "上游 release: $REMOTE_HASH"
+
+          # 强制重置到上游 release 分支
           git reset --hard upstream/release
-          
-          # 关键2：删除上游自带的工作流目录，阻止自动发布脚本运行
+
+          # 删除上游自带的工作流目录
           rm -rf .github
-          
-          # 有变更才提交，避免空提交
+
+          # 检查是否有文件变更（删除.github等）
           if [ -n "$(git status --porcelain)" ]; then
+            echo "检测到文件变更，提交后推送"
             git add -A
-            git commit -m "sync: 同步上游 clash-rules 规则"
-            # 关键3：推送时也不同步标签
+            git commit -m "sync: 同步上游 clash-rules release 分支"
+            git push origin fakeip --force --no-tags
+          # 没有文件变更，但分支提交本身不同，直接推送
+          elif [ "$(git rev-parse HEAD)" != "$(git rev-parse origin/fakeip)" ]; then
+            echo "分支提交有更新，直接推送"
             git push origin fakeip --force --no-tags
           else
             echo "上游无更新，跳过推送"
