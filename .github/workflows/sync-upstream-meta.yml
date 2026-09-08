@@ -2,7 +2,7 @@ name: 同步上游 meta 分支
 on:
   schedule:
     # 每天 UTC 0:00 执行（对应北京时间 8:00），可按需调整
-    - cron: '0 0 * * *'
+    - cron: '0 1 * * *'
   workflow_dispatch: # 开启手动触发按钮，可随时点按立即同步
 
 jobs:
