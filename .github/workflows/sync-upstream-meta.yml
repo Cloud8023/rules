@@ -1,0 +1,35 @@
+name: 同步上游 meta 分支
+on:
+  schedule:
+    # 每天 UTC 0:00 执行（对应北京时间 8:00），可按需调整
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 开启手动触发按钮，可随时点按立即同步
+
+jobs:
+  sync-meta:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 授予工作流修改仓库的权限
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v5
+        with:
+          fetch-depth: 0    # 拉取完整历史，确保合并正常
+          ref: meta         # 检出你自己仓库的 meta 分支
+
+      - name: 配置 Git 身份
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: 拉取上游并同步
+        run: |
+          # 添加上游远程仓库
+          git remote add upstream https://github.com/MetaCubeX/meta-rules-dat.git
+          # 拉取上游所有分支
+          git fetch upstream
+          # 强制重置本地 meta 分支 = 上游 meta 分支最新状态
+          # --hard 会完全镜像上游，丢弃你在 meta 分支的所有自定义修改
+          git reset --hard upstream/meta
+          # 强制推送到你自己仓库的 meta 分支
+          git push origin meta --force
