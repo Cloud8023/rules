@@ -104,10 +104,26 @@ jobs:
                   local temp_clean_input="cleaned_for_mrs.tmp"
 
                   if [[ "$format" == "text" ]]; then
-                      # 使用更健壮的 awk 命令，正确处理带后缀的 IP-CIDR 和各类 DOMAIN 规则
+                      # 区分 DOMAIN-SUFFIX 和 DOMAIN，严格按 MRS 标准格式输出
                       awk -F, '
                           !/^#/ && !/^[ \t\r\n]*$/ {
-                              if (NF > 1) { print $2; } else { print $0; }
+                              if (NF > 1) {
+                                  prefix = toupper($1);
+                                  gsub(/^[ \t]+|[ \t]+$/, "", prefix);
+                                  value = $2;
+                                  gsub(/^[ \t]+|[ \t]+$/, "", value);
+                                  if (prefix == "DOMAIN-SUFFIX") {
+                                      print "+." value;
+                                  } else if (prefix == "DOMAIN" || prefix == "DOMAIN-KEYWORD") {
+                                      print value;
+                                  } else {
+                                      # 其他类型（如 IP-CIDR）直接输出值
+                                      print value;
+                                  }
+                              } else {
+                                  # 不带逗号的行默认按纯域名处理
+                                  print $0;
+                              }
                           }
                       ' "$input_file" > "$temp_clean_input"
                       input_for_mihomo="$temp_clean_input"
